@@ -67,7 +67,6 @@ main {
 .links a {
     background-color: #2ad44f;
     padding: 20px;
-    padding: 50px;
     border-radius: 5px;
     margin: 20px;
     text-decoration: none;
@@ -85,4 +84,54 @@ footer {
     padding: 20px;
     margin-top: 15px;
     font-size: 14px;
+}
+
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .info {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .info img {
+    margin: 0 0 15px 0;
+  }
+
+  .text-box {
+    text-align: center;
+  }
+
+  .links a {
+    padding: 15px;
+    width: 90%;
+    font-size: 16px;
+  }
+}
+.image-below-links img,
+#carouselAgrinho .carousel-item img {
+  max-width: 100%;         /* Evita ultrapassar a largura da coluna */
+  height: auto;
+  max-height: 400px;       /* Ajuste para aproximar da altura dos textos ao lado */
+  border-radius: 10px;
+  object-fit: contain;     /* Mantém proporção da imagem sem cortar */
+  display: block;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .image-below-links img,
+  #carouselAgrinho .carousel-item img {
+    max-height: 250px;
+  }
+}
+
+@media (max-width: 480px) {
+  .image-below-links img,
+  #carouselAgrinho .carousel-item img {
+    max-height: 180px;
+  }
 }
