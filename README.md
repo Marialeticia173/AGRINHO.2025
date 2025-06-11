@@ -1,33 +1,39 @@
-AGRINHO - 2025
-OBJETIVO DO SITE: Este site foi desenvolvido com o objetivo de educar e sensibilizar os usuários sobre a importância da relação entre o campo e a cidade, destacando a interdependência entre esses dois ambientes e como a colaboração entre eles é essencial para o bem-estar social, econômico e ambiental.
 
-1.Página de Login:
-Ao acessar o site, o usuário é recebido por uma página de login moderna e responsiva. Esta página conta com os seguintes elementos:
-- Imagem de fundo autoral representando o campo e alguns elementos da cidade.
-- Uma caixa de login localizada a esquerda, com campos para nome de usuário e senha.
+AGRINHO-2025
+Este site foi desenvolvido com o objetivo de educar e sensibilizar os usuários sobre a importância da relação entre o campo e a cidade, destacando a interdependência entre esses dois ambientes e como a colaboração entre eles é essencial para o bem-estar social, econômico e ambiental.
+
+1. Página de Login:
+Ao acessar o site, o usuário é recebido por uma página de login moderna, responsiva e intuitiva, composta por:
+- Imagem de fundo autoral, representando a união entre campo e cidade.
+- Caixa de login à esquerda, com campos para nome de usuário e senha.
 - Botão de acesso ao conteúdo interativo do site.
-- Interface limpa e acessível, com cores suaves que remetem à natureza e a produção. 
-Essa tela inicial garante que o acesso ao conteúdo seja personalizado e seguro, além de já inserir o visitante no tema.
-Após o login, o usuário é direcionado à página inicial, que é rica em conteúdo interativo e educativo. Ela é dividida em três grandes blocos:
+- Interface limpa e acessível, com cores suaves que remetem à natureza e à produção rural.
+Essa tela inicial garante um acesso personalizado e seguro, além de introduzir o visitante ao tema principal da plataforma.
 
- 2.Textos Informativos:
-São três textos explicativos sobre como o campo e a cidade. 
-Ao clicar nas caixas de texto, elas se expandem automaticamente, aumentando o tamanho da fonte e da área de leitura, tornando a experiência mais confortável e acessível, inclusive para pessoas com baixa visão.
+2. Página Inicial:
+Após o login, o usuário é direcionado à página inicial, que apresenta conteúdos interativos e educativos organizados em blocos:
+2.1 Textos Informativos:
+Três caixas de texto explicativas sobre a interação entre campo e cidade. Ao clicar, os textos se expandem automaticamente, aumentando o tamanho da fonte e da área de leitura — recurso pensado para melhorar a acessibilidade, inclusive para pessoas com baixa visão.
 
-3.Reportagens:
-Duas reportagens atuais e bem selecionadas sobre o tema, trazendo exemplos reais de:
-- Relação entre campo e zona urbana movimenta economia e garante renda
-- A real contribuição do campo.
-As reportagens são integradas ao site em formato de cards ou links clicáveis, podendo abrir uma nova aba ou expandir o conteúdo dentro da própria página.
+2.2 Reportagens:
+Duas reportagens atuais e relevantes, apresentadas em cards interativos, com exemplos reais sobre:
+- Como a relação entre campo e cidade movimenta a economia e garante renda.
+- A real contribuição do campo para o desenvolvimento urbano.
+As reportagens podem ser abertas em nova aba, garantindo fluidez na leitura.
 
-4.Vídeos Educativos:
-Três vídeos temáticos curtos integrados ao site, com assuntos como:
--o espaço rural brasileiro.
-- relação entre campo e cidade.
-- a importancia do agronegócio para a cidade.
+2.3 Vídeos Educativos:
+Três vídeos curtos integrados ao site, com temas como:
+- O espaço rural brasileiro.
+- A relação entre campo e cidade.
+- A importância do agronegócio para a sociedade urbana.
 
-5.Funcionalidades Interativas:
-Botões interativos de login, sempre visível no topo do site.
-Animações suaves ao interagir com textos.
-Design responsivo: acessível via celular, tablet e computador.
-Acessibilidade melhorada com recursos como expansão automática de textos e contraste suave.
+2.4 Carrossel de Imagens:
+Logo abaixo dos vídeos e reportagens, há um carrossel de imagens dinâmico, que apresenta cenas do cotidiano rural e urbano, reforçando visualmente a conexão entre os dois ambientes. O carrossel é totalmente adaptado para dispositivos móveis.
+
+3. Funcionalidades Interativas e Design Responsivo:
+- Botões de navegação sempre visíveis, inclusive o botão de login no topo.
+- Animações suaves ao interagir com elementos como textos e imagens.
+- Design 100% responsivo, garantindo uma boa experiência em celulares, tablets e computadores.
+- Recursos de acessibilidade, como contraste suave e expansão automática de conteúdos.
+
+
