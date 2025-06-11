@@ -3,7 +3,7 @@ OBJETIVO DO SITE: Este site foi desenvolvido com o objetivo de educar e sensibil
 
 1.Página de Login:
 Ao acessar o site, o usuário é recebido por uma página de login moderna e responsiva. Esta página conta com os seguintes elementos:
-- Imagem de fundo autoral representando o campo.
+- Imagem de fundo autoral representando o campo e alguns elementos da cidade.
 - Uma caixa de login localizada a esquerda, com campos para nome de usuário e senha.
 - Botão de acesso ao conteúdo interativo do site.
 - Interface limpa e acessível, com cores suaves que remetem à natureza e a produção. 
